@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sajib {
+    background: rgb(167, 90, 90);
+    
+}
+.inputHead{
+    position: relative;
+}
+.inputHead span{
+    position: absolute;
+    right: 12px;
+    bottom: 120px;
+    background: red;
+}
